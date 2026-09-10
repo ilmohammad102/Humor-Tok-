@@ -1,0 +1,7 @@
+{
+  "name": "Humor Tok",
+  "description": "Mobile-friendly short video comedy reels web app featuring full-screen vertical swipe, likes, comments, audio track, comedy video upload/creation, reel download with Humor Tok watermark, offline saved reels, and an Owner dashboard for Mohammad.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
